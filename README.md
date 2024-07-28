@@ -3,6 +3,7 @@
 Login Tracker is a Chrome extension designed to help users track and record the URLs of websites where they log in, sign in or sign up. This extension allows users to maintain a history of their login activities, making it easier to revisit and manage their accounts across the web.
 
 |???????????|
+
 You might assume this extension simply keeps a record of your browsing history, but it offers much more. Unlike Google History, which captures countless links and makes it difficult to find specific login sites, Login Tracker focuses exclusively on recording websites where you manually log in. Unlike Google Password Manager, which stores credentials for sites where you log in with your Google account, this extension securely tracks only the websites where you enter your login details manually. This approach is particularly useful for managing logins on random websites, ensuring you can easily revisit these sites and log out if needed.
   
 
