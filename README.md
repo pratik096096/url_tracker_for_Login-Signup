@@ -9,8 +9,11 @@ You might assume this extension simply keeps a record of your browsing history, 
 
 ///Features
 Login and Registration: Users can log in or register through the extension. Successful authentication grants access to the tracking functionalities.
+
 Start and Stop Tracking: Users can start and stop tracking their login activities with the click of a button.
+
 Tracked URLs: The extension maintains a list of URLs where the user has logged in, which can be viewed directly within the extension.
+
 Logout: Users can log out, which clears their session and stops tracking activities.
 
 ///Technologies Used
